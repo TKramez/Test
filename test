@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/static/rss.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rp="https://w3id.org/rp/v1"
+     version="2.0">
+<channel>
+<title>Test</title>
+<link>https://catholicstuffpodcast.com</link>
+<atom:link href="https://pinecast.com/feed/catholicstuff" rel="self" type="application/rss+xml" />
+<generator>Pinecast (https://pinecast.com)</generator>
+<language>en-US</language><itunes:author>J. 10 Initiative</itunes:author>
+<description><![CDATA[A lighthearted exploration of various prominent and obscure Catholic topics.]]></description>
+<googleplay:owner>catholicstuffpodcast@gmail.com</googleplay:owner>
+<googleplay:email>catholicstuffpodcast@gmail.com</googleplay:email>
+<itunes:owner>
+<itunes:name>J. 10 Initiative</itunes:name>
+<itunes:email>catholicstuffpodcast@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://storage.pinecast.net/podcasts/covers/d7d151bb-faba-490a-bd4e-2c5e01f42ff4/CatholicStuff_logo_1920_R_white.png" />
+<image>
+<title>Catholic Stuff You Should Know</title>
+<link>https://catholicstuffpodcast.com</link>
+<url>https://storage.pinecast.net/podcasts/covers/d7d151bb-faba-490a-bd4e-2c5e01f42ff4/CatholicStuff_logo_1920_R_white.png</url>
+</image><itunes:type>episodic</itunes:type>
+<copyright>J. 10 Initiative</copyright>
+<itunes:subtitle>A lighthearted exploration of various prominent and obscure Catholic topics</itunes:subtitle>
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Christianity" /></itunes:category>
+<item><title>St. Ansgar &amp; Mission Failure</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9cc21342-d96a-4429-8d3c-2b2653027131</guid>
+<pubDate>Thu, 09 Sep 2021 07:01:54 -0000</pubDate>
+<itunes:duration>00:38:30</itunes:duration>
+<itunes:subtitle>It's more than just bearing fruit.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/09/09/st-ansgar-mission-failure.html</link>
+<description><![CDATA[<p>It's more than just bearing fruit.</p>]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9cc21342-d96a-4429-8d3c-2b2653027131.mp3?source=rss&amp;ext=asset.mp3" length="27731833" type="audio/mpeg" />
+</item>
+</channel>
+<!-- generated in 0s 22336us -->
+</rss>
