@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/static/rss.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rp="https://w3id.org/rp/v1"
+     version="2.0">
+<channel>
+<title>Catholic Stuff You Should Know</title>
+<link>https://catholicstuffpodcast.com</link>
+<atom:link href="https://pinecast.com/feed/catholicstuff" rel="self" type="application/rss+xml" />
+<generator>Pinecast (https://pinecast.com)</generator>
+<language>en-US</language><itunes:author>J. 10 Initiative</itunes:author>
+<description><![CDATA[A lighthearted exploration of various prominent and obscure Catholic topics.]]></description>
+<googleplay:owner>catholicstuffpodcast@gmail.com</googleplay:owner>
+<googleplay:email>catholicstuffpodcast@gmail.com</googleplay:email>
+<itunes:owner>
+<itunes:name>J. 10 Initiative</itunes:name>
+<itunes:email>catholicstuffpodcast@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://storage.pinecast.net/podcasts/covers/d7d151bb-faba-490a-bd4e-2c5e01f42ff4/CatholicStuff_logo_1920_R_white.png" />
+<image>
+<title>Catholic Stuff You Should Know</title>
+<link>https://catholicstuffpodcast.com</link>
+<url>https://storage.pinecast.net/podcasts/covers/d7d151bb-faba-490a-bd4e-2c5e01f42ff4/CatholicStuff_logo_1920_R_white.png</url>
+</image><itunes:type>episodic</itunes:type>
+<copyright>J. 10 Initiative</copyright>
+<itunes:subtitle>A lighthearted exploration of various prominent and obscure Catholic topics</itunes:subtitle>
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Christianity" /></itunes:category>
+<item><title>St. Ansgar &amp; Mission Failure</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9cc21342-d96a-4429-8d3c-2b2653027131</guid>
+<pubDate>Thu, 09 Sep 2021 07:01:54 -0000</pubDate>
+<itunes:duration>00:38:30</itunes:duration>
+<itunes:subtitle>It's more than just bearing fruit.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/09/09/st-ansgar-mission-failure.html</link>
+<description><![CDATA[<p>It's more than just bearing fruit.</p>]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9cc21342-d96a-4429-8d3c-2b2653027131.mp3?source=rss&amp;ext=asset.mp3" length="27731833" type="audio/mpeg" />
+</item>
+<item><title>World's a Stage</title>
+<guid isPermaLink="false">https://pinecast.com/guid/6e17ef7b-e2b6-4275-bb68-455d478e4444</guid>
+<pubDate>Fri, 03 Sep 2021 16:25:04 -0000</pubDate>
+<itunes:duration>00:46:50</itunes:duration>
+<itunes:subtitle>Focus on the plot, not just the extras.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/09/03/worlds-a-stage.html</link>
+<description><![CDATA[Focus on the plot, not just the extras.]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/6e17ef7b-e2b6-4275-bb68-455d478e4444.mp3?source=rss&amp;ext=asset.mp3" length="33723474" type="audio/mpeg" />
+</item>
+<item><title>Sent the Holy Spirit for the Forgiveness of Sins</title>
+<guid isPermaLink="false">https://pinecast.com/guid/0fb211ef-0f75-4767-95db-6d473effa399</guid>
+<pubDate>Thu, 26 Aug 2021 13:32:32 -0000</pubDate>
+<itunes:duration>00:48:25</itunes:duration>
+<itunes:subtitle>Seeking the truth is more than just a list</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/08/26/sent-the-holy-spirit-for-the-forgiveness-of-sins.html</link>
+<description><![CDATA[Seeking the truth is more than just a list]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/0fb211ef-0f75-4767-95db-6d473effa399.mp3?source=rss&amp;ext=asset.mp3" length="34864849" type="audio/mpeg" />
+</item>
+<item><title>Monotasking</title>
+<guid isPermaLink="false">https://pinecast.com/guid/46111f44-34e1-4024-ae02-1919d580b0e3</guid>
+<pubDate>Thu, 19 Aug 2021 17:33:25 -0000</pubDate>
+<itunes:duration>00:46:16</itunes:duration>
+<itunes:subtitle>and the ruthless elimination of hurry</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/08/19/monotasking.html</link>
+<description><![CDATA[and the ruthless elimination of hurry]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/46111f44-34e1-4024-ae02-1919d580b0e3.mp3?source=rss&amp;ext=asset.mp3" length="33313452" type="audio/mpeg" />
+</item>
+<item><title>Keep It 500</title>
+<guid isPermaLink="false">https://pinecast.com/guid/4479261a-ffdc-4c55-a132-4eb7a66d3fb6</guid>
+<pubDate>Thu, 12 Aug 2021 07:01:31 -0000</pubDate>
+<itunes:duration>01:14:45</itunes:duration>
+<itunes:subtitle>Taking time to praise &amp; reflect.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/08/12/keep-it-500.html</link>
+<description><![CDATA[<p>Taking time to praise &amp; reflect.</p>]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/4479261a-ffdc-4c55-a132-4eb7a66d3fb6.mp3?source=rss&amp;ext=asset.mp3" length="53823127" type="audio/mpeg" />
+</item>
+<item><title>Repost: Batman</title>
+<guid isPermaLink="false">https://pinecast.com/guid/735dba4e-36a6-4328-b281-6f482bdcf8c5</guid>
+<pubDate>Thu, 05 Aug 2021 07:11:00 -0000</pubDate>
+<itunes:duration>00:24:48</itunes:duration>
+<itunes:subtitle>NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NATHAN!</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/08/05/repost-batman.html</link>
+<description><![CDATA[NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NATHAN!]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/735dba4e-36a6-4328-b281-6f482bdcf8c5.mp3?source=rss&amp;ext=asset.mp3" length="23809132" type="audio/mpeg" />
+</item>
+<item><title>Repost: The Heart of Marriage</title>
+<guid isPermaLink="false">https://pinecast.com/guid/e51dbe82-06a0-4383-b674-edf452370f15</guid>
+<pubDate>Thu, 22 Jul 2021 07:11:00 -0000</pubDate>
+<itunes:duration>00:46:11</itunes:duration>
+<itunes:subtitle>The Mystery of Crowning</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/07/22/repost-the-heart-of-marriage.html</link>
+<description><![CDATA[The Mystery of Crowning]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e51dbe82-06a0-4383-b674-edf452370f15.mp3?source=rss&amp;ext=asset.mp3" length="44343435" type="audio/mpeg" />
+</item>
+<item><title>Repost: Celibatio Celebratio</title>
+<guid isPermaLink="false">https://pinecast.com/guid/789cba30-59fc-492e-89dc-591083a0252f</guid>
+<pubDate>Thu, 08 Jul 2021 07:11:00 -0000</pubDate>
+<itunes:duration>00:54:05</itunes:duration>
+<itunes:subtitle>Radical Readiness</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/07/08/repost-celibatio-celebratio.html</link>
+<description><![CDATA[Radical Readiness]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/789cba30-59fc-492e-89dc-591083a0252f.mp3?source=rss&amp;ext=asset.mp3" length="51934691" type="audio/mpeg" />
+</item>
+<item><title>Repost: Veni, Sancte Spiritus</title>
+<guid isPermaLink="false">https://pinecast.com/guid/a4edbe09-27e4-4020-aa50-454aa9962647</guid>
+<pubDate>Thu, 24 Jun 2021 07:11:00 -0000</pubDate>
+<itunes:duration>00:57:53</itunes:duration>
+<itunes:subtitle>RCIA Lesson: The Five Powers of the Holy Spirit</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/06/24/repost-veni-sancte-spiritus.html</link>
+<description><![CDATA[RCIA Lesson: The Five Powers of the Holy Spirit]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/a4edbe09-27e4-4020-aa50-454aa9962647.mp3?source=rss&amp;ext=asset.mp3" length="55570507" type="audio/mpeg" />
+</item>
+<item><title>Repost: Discernment of Spirits</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9cfa9be5-2837-4500-b130-9cf8d1416468</guid>
+<pubDate>Thu, 10 Jun 2021 07:11:00 -0000</pubDate>
+<itunes:duration>00:00:00</itunes:duration>
+<link>https://catholicstuffpodcast.com/podcast/2021/06/10/repost-discernment-of-spirits.html</link>
+<description><![CDATA[More than Just a Set of Rules]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9cfa9be5-2837-4500-b130-9cf8d1416468.mp3?source=rss&amp;ext=asset.mp3" length="40490549" type="audio/mpeg" />
+</item>
+<item><title>God is "Being With"</title>
+<guid isPermaLink="false">https://pinecast.com/guid/501181a3-99a3-4cf1-9ad4-ca186166aa54</guid>
+<pubDate>Thu, 27 May 2021 23:29:03 -0000</pubDate>
+<itunes:duration>00:54:40</itunes:duration>
+<itunes:subtitle>What for, from, and with have to teach us.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/05/27/god-is-being-with.html</link>
+<description><![CDATA[What for, from, and with have to teach us.]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/501181a3-99a3-4cf1-9ad4-ca186166aa54.mp3?source=rss&amp;ext=asset.mp3" length="39360911" type="audio/mpeg" />
+</item>
+<item><title>The Infection of Hereditary Hypocrisy</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ee8af36a-c9fa-4a04-a20a-3c51f0887c17</guid>
+<pubDate>Thu, 20 May 2021 07:01:19 -0000</pubDate>
+<itunes:duration>00:51:54</itunes:duration>
+<itunes:subtitle>Coming to truly know thyself</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/05/20/the-infection-of-hereditary-hypocrisy.html</link>
+<description><![CDATA[Coming to truly know thyself]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ee8af36a-c9fa-4a04-a20a-3c51f0887c17.mp3?source=rss&amp;ext=asset.mp3" length="37379176" type="audio/mpeg" />
+</item>
+<item><title>What Ought Balthasar to Hope?</title>
+<guid isPermaLink="false">https://pinecast.com/guid/08383252-21fe-4d02-8751-1e1e09eb86a0</guid>
+<pubDate>Thu, 13 May 2021 14:19:58 -0000</pubDate>
+<itunes:duration>00:59:04</itunes:duration>
+<itunes:subtitle>Death is not the final word.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/05/13/what-ought-balthasar-to-hope.html</link>
+<description><![CDATA[Death is not the final word.]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/08383252-21fe-4d02-8751-1e1e09eb86a0.mp3?source=rss&amp;ext=asset.mp3" length="42532918" type="audio/mpeg" />
+</item>
+<item><title>Giant Love Ball</title>
+<guid isPermaLink="false">https://pinecast.com/guid/43b0c7c9-f37e-457c-848e-1054cc38a7d6</guid>
+<pubDate>Thu, 06 May 2021 09:33:18 -0000</pubDate>
+<itunes:duration>01:02:20</itunes:duration>
+<itunes:subtitle>The beauty of prayer through chant and song</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/05/06/giant-love-ball.html</link>
+<description><![CDATA[The beauty of prayer through chant and song]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/43b0c7c9-f37e-457c-848e-1054cc38a7d6.mp3?source=rss&amp;ext=asset.mp3" length="44887059" type="audio/mpeg" />
+</item>
+<item><title>From His Loins</title>
+<guid isPermaLink="false">https://pinecast.com/guid/61505fd8-d522-49d1-af0a-8d7c5d13f07f</guid>
+<pubDate>Fri, 30 Apr 2021 03:41:21 -0000</pubDate>
+<itunes:duration>00:53:00</itunes:duration>
+<itunes:subtitle>Reflections with a dad</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/04/29/from-his-loins.html</link>
+<description><![CDATA[Reflections with a dad]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/61505fd8-d522-49d1-af0a-8d7c5d13f07f.mp3?source=rss&amp;ext=asset.mp3" length="38164080" type="audio/mpeg" />
+</item>
+<item><title>Desire, Experience, Conversion</title>
+<guid isPermaLink="false">https://pinecast.com/guid/d1210940-80ae-4099-9ed7-1f819516bc86</guid>
+<pubDate>Thu, 22 Apr 2021 13:50:23 -0000</pubDate>
+<itunes:duration>00:49:54</itunes:duration>
+<itunes:subtitle>Tools for Encountering Christ</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/04/22/desire-experience-conversion.html</link>
+<description><![CDATA[Tools for Encountering Christ]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/d1210940-80ae-4099-9ed7-1f819516bc86.mp3?source=rss&amp;ext=asset.mp3" length="35936583" type="audio/mpeg" />
+</item>
+<item><title>Homily Talk</title>
+<guid isPermaLink="false">https://pinecast.com/guid/e58dff69-6451-4963-9373-44127499b428</guid>
+<pubDate>Thu, 15 Apr 2021 14:13:30 -0000</pubDate>
+<itunes:duration>00:53:10</itunes:duration>
+<itunes:subtitle>Portraying the Wort of God</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/04/15/homily-talk.html</link>
+<description><![CDATA[Portraying the Wort of God]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e58dff69-6451-4963-9373-44127499b428.mp3?source=rss&amp;ext=asset.mp3" length="38288838" type="audio/mpeg" />
+</item>
+<item><title>The Flame of Faith</title>
+<guid isPermaLink="false">https://pinecast.com/guid/7ab4f510-b541-4bdc-88e6-e3035a456be6</guid>
+<pubDate>Thu, 08 Apr 2021 23:04:57 -0000</pubDate>
+<itunes:duration>00:39:02</itunes:duration>
+<itunes:subtitle>Let your faith be seen</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/04/08/the-flame-of-faith.html</link>
+<description><![CDATA[Let your faith be seen]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/7ab4f510-b541-4bdc-88e6-e3035a456be6.mp3?source=rss&amp;ext=asset.mp3" length="28106105" type="audio/mpeg" />
+</item>
+<item><title>Paradise around the Corner</title>
+<guid isPermaLink="false">https://pinecast.com/guid/0404438f-541f-4b34-8657-1ea8f7e9a2f7</guid>
+<pubDate>Thu, 01 Apr 2021 15:12:33 -0000</pubDate>
+<itunes:duration>00:47:08</itunes:duration>
+<itunes:subtitle>Because He Promised</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/04/01/paradise-around-the-corner.html</link>
+<description><![CDATA[Because He Promised]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/0404438f-541f-4b34-8657-1ea8f7e9a2f7.mp3?source=rss&amp;ext=asset.mp3" length="33937584" type="audio/mpeg" />
+</item>
+<item><title>A Free Africa with Obianuju vs. Ideological Colonialis</title>
+<guid isPermaLink="false">https://pinecast.com/guid/755cb95d-6936-4a73-b32b-4881453cda0c</guid>
+<pubDate>Fri, 26 Mar 2021 17:47:31 -0000</pubDate>
+<itunes:duration>00:50:37</itunes:duration>
+<itunes:subtitle>Promoting aid through justice and mercy</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/03/26/a-free-africa-with-obianuju-vs-ideological-colonialism.html</link>
+<description><![CDATA[Promoting aid through justice and mercy]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/755cb95d-6936-4a73-b32b-4881453cda0c.mp3?source=rss&amp;ext=asset.mp3" length="36452578" type="audio/mpeg" />
+</item>
+<item><title>Be Bold Be Brief Be Seated</title>
+<guid isPermaLink="false">https://pinecast.com/guid/8a87301c-d8db-4597-a0ef-218b10809f48</guid>
+<pubDate>Thu, 18 Mar 2021 14:14:52 -0000</pubDate>
+<itunes:duration>00:30:54</itunes:duration>
+<itunes:subtitle>Quick texts to your spiritual friends</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/03/18/be-bold-be-brief-be-seated.html</link>
+<description><![CDATA[Quick texts to your spiritual friends]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/8a87301c-d8db-4597-a0ef-218b10809f48.mp3?source=rss&amp;ext=asset.mp3" length="22257088" type="audio/mpeg" />
+</item>
+<item><title>Leaving the Zoo</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c6c68793-cfef-4860-9f3b-bf0e28667224</guid>
+<pubDate>Thu, 11 Mar 2021 14:02:55 -0000</pubDate>
+<itunes:duration>00:55:18</itunes:duration>
+<itunes:subtitle>The reality of the wilderness</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/03/11/leaving-the-zoo.html</link>
+<description><![CDATA[The reality of the wilderness]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c6c68793-cfef-4860-9f3b-bf0e28667224.mp3?source=rss&amp;ext=asset.mp3" length="39822334" type="audio/mpeg" />
+</item>
+<item><title>Because Someone has to be Dad</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f8e14b82-6055-474c-947e-ecbfb1e6994e</guid>
+<pubDate>Thu, 04 Mar 2021 14:35:34 -0000</pubDate>
+<itunes:duration>00:49:11</itunes:duration>
+<itunes:subtitle>How fathers lead us to the Father</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/03/04/because-someone-has-to-be-dad.html</link>
+<description><![CDATA[How fathers lead us to the Father]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f8e14b82-6055-474c-947e-ecbfb1e6994e.mp3?source=rss&amp;ext=asset.mp3" length="35417790" type="audio/mpeg" />
+</item>
+<item><title>Honoring</title>
+<guid isPermaLink="false">https://pinecast.com/guid/3ce3fece-fc86-419a-b5ed-6b909863a3a9</guid>
+<pubDate>Thu, 25 Feb 2021 12:07:09 -0000</pubDate>
+<itunes:duration>00:44:26</itunes:duration>
+<itunes:subtitle>More than just a celebration</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/02/25/honoring.html</link>
+<description><![CDATA[More than just a celebration]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/3ce3fece-fc86-419a-b5ed-6b909863a3a9.mp3?source=rss&amp;ext=asset.mp3" length="31993743" type="audio/mpeg" />
+</item>
+<item><title>Covid Marriage Crash Course</title>
+<guid isPermaLink="false">https://pinecast.com/guid/50297a36-708a-4f7e-8eba-2a41e9e9c7df</guid>
+<pubDate>Thu, 18 Feb 2021 16:16:57 -0000</pubDate>
+<itunes:duration>00:50:24</itunes:duration>
+<itunes:subtitle>More than just a feeling</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/02/18/covid-marriage-crash-course.html</link>
+<description><![CDATA[More than just a feeling]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/50297a36-708a-4f7e-8eba-2a41e9e9c7df.mp3?source=rss&amp;ext=asset.mp3" length="36291427" type="audio/mpeg" />
+</item>
+<item><title>Fill In the Blank</title>
+<guid isPermaLink="false">https://pinecast.com/guid/491dcf98-2a13-412f-a6cc-cbc483b76aad</guid>
+<pubDate>Thu, 11 Feb 2021 15:15:47 -0000</pubDate>
+<itunes:duration>00:49:56</itunes:duration>
+<itunes:subtitle>Seeing the Sacraments</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/02/11/fill-in-the-blank.html</link>
+<description><![CDATA[Seeing the Sacraments]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/491dcf98-2a13-412f-a6cc-cbc483b76aad.mp3?source=rss&amp;ext=asset.mp3" length="35952557" type="audio/mpeg" />
+</item>
+<item><title>Tantum Ergo and the Mystery of Faith</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f1bece72-a84b-4050-bff4-4a25bc5be710</guid>
+<pubDate>Thu, 04 Feb 2021 16:10:36 -0000</pubDate>
+<itunes:duration>00:53:27</itunes:duration>
+<itunes:subtitle>Fueling wonder &amp; praise</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/02/04/tantum-ergo-and-the-mystery-of-faith.html</link>
+<description><![CDATA[Fueling wonder &amp; praise]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f1bece72-a84b-4050-bff4-4a25bc5be710.mp3?source=rss&amp;ext=asset.mp3" length="38485095" type="audio/mpeg" />
+</item>
+<item><title>The Grand Inquisitor</title>
+<guid isPermaLink="false">https://pinecast.com/guid/1ecf1978-31fb-4175-927c-f831f78c01e3</guid>
+<pubDate>Thu, 28 Jan 2021 16:37:24 -0000</pubDate>
+<itunes:duration>00:48:37</itunes:duration>
+<itunes:subtitle>Learning true freedom with Dostoevsky</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/01/28/the-grand-inquisitor.html</link>
+<description><![CDATA[Learning true freedom with Dostoevsky]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/1ecf1978-31fb-4175-927c-f831f78c01e3.mp3?source=rss&amp;ext=asset.mp3" length="35007449" type="audio/mpeg" />
+</item>
+<item><title>Water Whispers</title>
+<guid isPermaLink="false">https://pinecast.com/guid/be240847-04a7-42e0-b3d0-575aab84cbb5</guid>
+<pubDate>Thu, 21 Jan 2021 18:17:11 -0000</pubDate>
+<itunes:duration>00:51:48</itunes:duration>
+<itunes:subtitle>Water, from beginning to end</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/01/21/water-whispers.html</link>
+<description><![CDATA[Water, from beginning to end]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/be240847-04a7-42e0-b3d0-575aab84cbb5.mp3?source=rss&amp;ext=asset.mp3" length="37307995" type="audio/mpeg" />
+</item>
+<item><title>Three Part Sanctuary</title>
+<guid isPermaLink="false">https://pinecast.com/guid/da16a375-2909-4785-b371-8c796aab2375</guid>
+<pubDate>Thu, 14 Jan 2021 14:32:27 -0000</pubDate>
+<itunes:duration>00:42:35</itunes:duration>
+<itunes:subtitle>It's more than sitting at a desk</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/01/14/three-part-sanctuary.html</link>
+<description><![CDATA[It's more than sitting at a desk]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/da16a375-2909-4785-b371-8c796aab2375.mp3?source=rss&amp;ext=asset.mp3" length="30661823" type="audio/mpeg" />
+</item>
+<item><title>Soul Music</title>
+<guid isPermaLink="false">https://pinecast.com/guid/eaee733e-2ae1-4e1a-a20c-04a11f93a057</guid>
+<pubDate>Thu, 07 Jan 2021 08:01:46 -0000</pubDate>
+<itunes:duration>00:51:59</itunes:duration>
+<itunes:subtitle>The sounds that captivate you</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2021/01/07/soul-music.html</link>
+<description><![CDATA[The sounds that captivate you]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/eaee733e-2ae1-4e1a-a20c-04a11f93a057.mp3?source=rss&amp;ext=asset.mp3" length="37432752" type="audio/mpeg" />
+</item>
+<item><title>Sacramentalized Nonverts</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9a1af7c6-5c0d-465e-a084-4e811d7457d8</guid>
+<pubDate>Thu, 31 Dec 2020 08:01:10 -0000</pubDate>
+<itunes:duration>00:52:00</itunes:duration>
+<itunes:subtitle>Pray Local.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/12/31/sacramentalized-nonverts.html</link>
+<description><![CDATA[Pray Local.]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9a1af7c6-5c0d-465e-a084-4e811d7457d8.mp3?source=rss&amp;ext=asset.mp3" length="37450634" type="audio/mpeg" />
+</item>
+<item><title>Come to Your Senses in Advent!</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ef1e0066-ba2e-4d43-bfdf-c9802738d624</guid>
+<pubDate>Thu, 24 Dec 2020 08:01:56 -0000</pubDate>
+<itunes:duration>00:55:31</itunes:duration>
+<itunes:subtitle>Prepare for the birth of the Lord</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/12/24/come-to-your-senses-in-advent.html</link>
+<description><![CDATA[Prepare for the birth of the Lord]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ef1e0066-ba2e-4d43-bfdf-c9802738d624.mp3?source=rss&amp;ext=asset.mp3" length="39981624" type="audio/mpeg" />
+</item>
+<item><title>More Than Lonely Hearts</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9b5d2a53-857d-487f-8513-5d90687a4297</guid>
+<pubDate>Thu, 17 Dec 2020 19:24:40 -0000</pubDate>
+<itunes:duration>00:52:54</itunes:duration>
+<itunes:subtitle>Love found in sacrifice</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/12/17/more-than-lonely-hearts.html</link>
+<description><![CDATA[Love found in sacrifice]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9b5d2a53-857d-487f-8513-5d90687a4297.mp3?source=rss&amp;ext=asset.mp3" length="38092618" type="audio/mpeg" />
+</item>
+<item><title>Theology of Disclosure</title>
+<guid isPermaLink="false">https://pinecast.com/guid/468fba7a-4b15-42da-acc5-e7532da4cecb</guid>
+<pubDate>Thu, 10 Dec 2020 08:01:51 -0000</pubDate>
+<itunes:duration>00:55:08</itunes:duration>
+<itunes:subtitle>Tearing off the wrapping paper</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/12/10/theology-of-disclosure.html</link>
+<description><![CDATA[Tearing off the wrapping paper]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/468fba7a-4b15-42da-acc5-e7532da4cecb.mp3?source=rss&amp;ext=asset.mp3" length="39697894" type="audio/mpeg" />
+</item>
+<item><title>A Dialogue of Self &amp; Soul</title>
+<guid isPermaLink="false">https://pinecast.com/guid/27a2c823-0ab5-410b-af9f-245ad7e664de</guid>
+<pubDate>Thu, 03 Dec 2020 08:01:21 -0000</pubDate>
+<itunes:duration>00:52:15</itunes:duration>
+<itunes:subtitle>Learning from your screen time</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/12/03/a-dialogue-of-self-soul.html</link>
+<description><![CDATA[Learning from your screen time]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/27a2c823-0ab5-410b-af9f-245ad7e664de.mp3?source=rss&amp;ext=asset.mp3" length="37628999" type="audio/mpeg" />
+</item>
+<item><title>Grazing Under the Shadow of the King</title>
+<guid isPermaLink="false">https://pinecast.com/guid/e8e127b4-d2fe-4dd0-ab65-6ddb12a515d3</guid>
+<pubDate>Thu, 26 Nov 2020 08:01:16 -0000</pubDate>
+<itunes:duration>00:00:00</itunes:duration>
+<itunes:subtitle>Following the shepherd's guide</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/11/26/grazing-under-the-shadow-of-the-king.html</link>
+<description><![CDATA[Following the shepherd's guide]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e8e127b4-d2fe-4dd0-ab65-6ddb12a515d3.mp3?source=rss&amp;ext=asset.mp3" length="38181656" type="audio/mpeg" />
+</item>
+<item><title>Societal Scurvy</title>
+<guid isPermaLink="false">https://pinecast.com/guid/6f0ff1be-5529-45ad-85d5-5ddaa991fdd6</guid>
+<pubDate>Thu, 19 Nov 2020 15:42:39 -0000</pubDate>
+<itunes:duration>00:56:41</itunes:duration>
+<itunes:subtitle>Growth through communal friendship</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/11/19/societal-scurvy.html</link>
+<description><![CDATA[Growth through communal friendship]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/6f0ff1be-5529-45ad-85d5-5ddaa991fdd6.mp3?source=rss&amp;ext=asset.mp3" length="40823242" type="audio/mpeg" />
+</item>
+<item><title>There's one thing I know...</title>
+<guid isPermaLink="false">https://pinecast.com/guid/046043d0-beb6-4838-99f1-a39acc43dbd2</guid>
+<pubDate>Thu, 12 Nov 2020 20:00:41 -0000</pubDate>
+<itunes:duration>00:46:19</itunes:duration>
+<itunes:subtitle>Reflections on the highway</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/11/12/theres-one-thing-i-know.html</link>
+<description><![CDATA[Reflections on the highway]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/046043d0-beb6-4838-99f1-a39acc43dbd2.mp3?source=rss&amp;ext=asset.mp3" length="33349203" type="audio/mpeg" />
+</item>
+<item><title>Baby Making</title>
+<guid isPermaLink="false">https://pinecast.com/guid/92977e8d-7382-453a-ab8e-2979ea1dc8e4</guid>
+<pubDate>Thu, 05 Nov 2020 08:01:49 -0000</pubDate>
+<itunes:duration>00:51:32</itunes:duration>
+<itunes:subtitle>The desire to give life</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/11/05/baby-making.html</link>
+<description><![CDATA[The desire to give life]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/92977e8d-7382-453a-ab8e-2979ea1dc8e4.mp3?source=rss&amp;ext=asset.mp3" length="37111760" type="audio/mpeg" />
+</item>
+<item><title>Political Spin Class, Pt. 2</title>
+<guid isPermaLink="false">https://pinecast.com/guid/8d447008-d5a0-4457-8711-92fb3d086be2</guid>
+<pubDate>Thu, 29 Oct 2020 07:01:00 -0000</pubDate>
+<itunes:duration>00:44:40</itunes:duration>
+<itunes:subtitle>First, become informed. Second, vote.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/10/29/political-spin-class-pt-2.html</link>
+<description><![CDATA[First, become informed. Second, vote.]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/8d447008-d5a0-4457-8711-92fb3d086be2.mp3?source=rss&amp;ext=asset.mp3" length="32172126" type="audio/mpeg" />
+</item>
+<item><title>Political Spin Class, Pt. 1</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c6192cc7-6fc3-41ba-a55b-017cc952ddbc</guid>
+<pubDate>Thu, 22 Oct 2020 07:01:51 -0000</pubDate>
+<itunes:duration>00:46:32</itunes:duration>
+<itunes:subtitle>Wrestling with both sides</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/10/22/political-spin-class-pt-1.html</link>
+<description><![CDATA[Wrestling with both sides]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c6192cc7-6fc3-41ba-a55b-017cc952ddbc.mp3?source=rss&amp;ext=asset.mp3" length="33509700" type="audio/mpeg" />
+</item>
+<item><title>Live at Legatus</title>
+<guid isPermaLink="false">https://pinecast.com/guid/05462f6a-6d2d-4d54-93f1-b21fdb78c3b4</guid>
+<pubDate>Thu, 15 Oct 2020 07:01:55 -0000</pubDate>
+<itunes:duration>00:48:30</itunes:duration>
+<itunes:subtitle>The transmission of faith through humanity.</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/10/15/live-at-legatus.html</link>
+<description><![CDATA[The transmission of faith through humanity.]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/05462f6a-6d2d-4d54-93f1-b21fdb78c3b4.mp3?source=rss&amp;ext=asset.mp3" length="34920613" type="audio/mpeg" />
+</item>
+<item><title>Protecting the Human Ecosystem: Prolegomena</title>
+<guid isPermaLink="false">https://pinecast.com/guid/d65fcd52-77fb-43de-ba69-69764dddfb9d</guid>
+<pubDate>Thu, 08 Oct 2020 15:10:35 -0000</pubDate>
+<itunes:duration>00:38:10</itunes:duration>
+<itunes:subtitle>Are cheese-crackers a Human Right?</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/10/08/protecting-the-human-ecosystem-prolegomena.html</link>
+<description><![CDATA[Are cheese-crackers a Human Right?]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/d65fcd52-77fb-43de-ba69-69764dddfb9d.mp3?source=rss&amp;ext=asset.mp3" length="27482013" type="audio/mpeg" />
+</item>
+<item><title>The Nun with Spurs</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c7ae5946-0a2b-4011-881e-bc2aed57ef2f</guid>
+<pubDate>Thu, 01 Oct 2020 07:01:58 -0000</pubDate>
+<itunes:duration>00:30:56</itunes:duration>
+<itunes:subtitle>Learning Holiness in Unexpected Circumstances</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/10/01/the-nun-with-spurs.html</link>
+<description><![CDATA[Learning Holiness in Unexpected Circumstances]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c7ae5946-0a2b-4011-881e-bc2aed57ef2f.mp3?source=rss&amp;ext=asset.mp3" length="22274948" type="audio/mpeg" />
+</item>
+<item><title>Burger King Catholicism</title>
+<guid isPermaLink="false">https://pinecast.com/guid/4c9faff2-6bca-424c-8a34-2bb55b50ccea</guid>
+<pubDate>Thu, 24 Sep 2020 19:32:37 -0000</pubDate>
+<itunes:duration>00:49:29</itunes:duration>
+<itunes:subtitle>What does God want me to choose?</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/09/24/burger-king-catholicism.html</link>
+<description><![CDATA[What does God want me to choose?]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/4c9faff2-6bca-424c-8a34-2bb55b50ccea.mp3?source=rss&amp;ext=asset.mp3" length="35631570" type="audio/mpeg" />
+</item>
+<item><title>The Prodigal Sheep</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ac564cd8-a376-4a7e-83b5-bc6589d6f07d</guid>
+<pubDate>Thu, 17 Sep 2020 07:01:58 -0000</pubDate>
+<itunes:duration>00:33:35</itunes:duration>
+<itunes:subtitle>The faithful, resilient, prayerful warriors</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/09/17/the-prodigal-sheep.html</link>
+<description><![CDATA[The faithful, resilient, prayerful warriors]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ac564cd8-a376-4a7e-83b5-bc6589d6f07d.mp3?source=rss&amp;ext=asset.mp3" length="24183036" type="audio/mpeg" />
+</item>
+<item><title>Drinks after Lord's Day</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f57d08c1-bb92-4543-88ce-2f768a76ed22</guid>
+<pubDate>Thu, 10 Sep 2020 16:05:36 -0000</pubDate>
+<itunes:duration>00:48:50</itunes:duration>
+<itunes:subtitle>Striking the balance</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/09/10/drinks-after-lords-day.html</link>
+<description><![CDATA[Striking the balance]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f57d08c1-bb92-4543-88ce-2f768a76ed22.mp3?source=rss&amp;ext=asset.mp3" length="35167949" type="audio/mpeg" />
+</item>
+<item><title>1917 and the Power of the Superhuman Fatima Children</title>
+<guid isPermaLink="false">https://pinecast.com/guid/42934142-1654-4dd4-98ed-a563d0e47bd4</guid>
+<pubDate>Thu, 03 Sep 2020 07:01:12 -0000</pubDate>
+<itunes:duration>00:44:18</itunes:duration>
+<itunes:subtitle>A light for the world</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/09/03/1917-and-the-power-of-the-superhuman-fatima-children.html</link>
+<description><![CDATA[A light for the world]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/42934142-1654-4dd4-98ed-a563d0e47bd4.mp3?source=rss&amp;ext=asset.mp3" length="31904761" type="audio/mpeg" />
+</item>
+<item><title>Man at Play</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ee3e2edd-a653-48c2-83e4-b60688e2bfd7</guid>
+<pubDate>Thu, 27 Aug 2020 07:01:26 -0000</pubDate>
+<itunes:duration>00:52:20</itunes:duration>
+<itunes:subtitle>Living with charm, wit, &amp; elegance</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/08/27/man-at-play.html</link>
+<description><![CDATA[Living with charm, wit, &amp; elegance]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ee3e2edd-a653-48c2-83e4-b60688e2bfd7.mp3?source=rss&amp;ext=asset.mp3" length="37682588" type="audio/mpeg" />
+</item>
+<item><title>Sharing is Caring</title>
+<guid isPermaLink="false">https://pinecast.com/guid/d86a0732-1328-4876-a87d-012ee615d54a</guid>
+<pubDate>Thu, 20 Aug 2020 19:11:49 -0000</pubDate>
+<itunes:duration>00:47:09</itunes:duration>
+<itunes:subtitle>Faith for the generations</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/08/20/sharing-is-caring.html</link>
+<description><![CDATA[Faith for the generations]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/d86a0732-1328-4876-a87d-012ee615d54a.mp3?source=rss&amp;ext=asset.mp3" length="33955443" type="audio/mpeg" />
+</item>
+<item><title>The Counsels in the Mountains</title>
+<guid isPermaLink="false">https://pinecast.com/guid/015ce8e8-8bd8-4cc2-9319-5c92477137a2</guid>
+<pubDate>Thu, 13 Aug 2020 07:01:28 -0000</pubDate>
+<itunes:duration>01:00:17</itunes:duration>
+<itunes:subtitle>Living in Harmony</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/08/13/the-counsels-in-the-mountains.html</link>
+<description><![CDATA[Living in Harmony]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/015ce8e8-8bd8-4cc2-9319-5c92477137a2.mp3?source=rss&amp;ext=asset.mp3" length="43406871" type="audio/mpeg" />
+</item>
+<item><title>Land of the Holy Faith. Land of Miracles</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c7e90976-e945-4018-ad81-ecfe3b310e7f</guid>
+<pubDate>Thu, 06 Aug 2020 07:01:52 -0000</pubDate>
+<itunes:duration>01:02:59</itunes:duration>
+<itunes:subtitle>He blesses the mission</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/08/06/land-of-the-holy-faith-land-of-miracles.html</link>
+<description><![CDATA[He blesses the mission]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c7e90976-e945-4018-ad81-ecfe3b310e7f.mp3?source=rss&amp;ext=asset.mp3" length="45350705" type="audio/mpeg" />
+</item>
+<item><title>I Can Do Nothing</title>
+<guid isPermaLink="false">https://pinecast.com/guid/3eb3ca48-2fb5-470d-b2c2-0f2cc2aa9a0c</guid>
+<pubDate>Thu, 30 Jul 2020 07:01:14 -0000</pubDate>
+<itunes:duration>00:47:51</itunes:duration>
+<itunes:subtitle>The Central Theme</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/07/30/i-can-do-nothing.html</link>
+<description><![CDATA[The Central Theme]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/3eb3ca48-2fb5-470d-b2c2-0f2cc2aa9a0c.mp3?source=rss&amp;ext=asset.mp3" length="34454799" type="audio/mpeg" />
+</item>
+<item><title>Be at rest my soul</title>
+<guid isPermaLink="false">https://pinecast.com/guid/1af90ba8-e5bd-441d-a598-a769f5f327db</guid>
+<pubDate>Thu, 16 Jul 2020 15:02:50 -0000</pubDate>
+<itunes:duration>00:56:52</itunes:duration>
+<itunes:subtitle>Looking Back</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/07/16/be-at-rest-my-soul.html</link>
+<description><![CDATA[Looking Back]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/1af90ba8-e5bd-441d-a598-a769f5f327db.mp3?source=rss&amp;ext=asset.mp3" length="40945811" type="audio/mpeg" />
+</item>
+<item><title>Addicted to Mediocrity</title>
+<guid isPermaLink="false">https://pinecast.com/guid/e86968ed-2c27-4499-bcfb-f8d581713cae</guid>
+<pubDate>Thu, 09 Jul 2020 07:01:23 -0000</pubDate>
+<itunes:duration>00:52:40</itunes:duration>
+<itunes:subtitle>Log out &amp; live</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/07/09/addicted-to-mediocrity.html</link>
+<description><![CDATA[Log out &amp; live]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e86968ed-2c27-4499-bcfb-f8d581713cae.mp3?source=rss&amp;ext=asset.mp3" length="37932121" type="audio/mpeg" />
+</item>
+<item><title>Mercy, Mercy, Mercy, Peace</title>
+<guid isPermaLink="false">https://pinecast.com/guid/87dc5b21-a8b0-498e-96c6-3f5ad7416f77</guid>
+<pubDate>Thu, 02 Jul 2020 21:18:55 -0000</pubDate>
+<itunes:duration>00:46:20</itunes:duration>
+<itunes:subtitle>Mercy in the Mass</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/07/02/mercy-mercy-mercy-peace.html</link>
+<description><![CDATA[Mercy in the Mass]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/87dc5b21-a8b0-498e-96c6-3f5ad7416f77.mp3?source=rss&amp;ext=asset.mp3" length="33366757" type="audio/mpeg" />
+</item>
+<item><title>Transformation in the Face of God</title>
+<guid isPermaLink="false">https://pinecast.com/guid/95bb7097-feac-45f8-b0d4-4eb59cedaae6</guid>
+<pubDate>Thu, 25 Jun 2020 07:01:45 -0000</pubDate>
+<itunes:duration>00:53:47</itunes:duration>
+<itunes:subtitle>Run to the Eucharist</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/06/25/transformation-in-the-face-of-god.html</link>
+<description><![CDATA[Run to the Eucharist]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/95bb7097-feac-45f8-b0d4-4eb59cedaae6.mp3?source=rss&amp;ext=asset.mp3" length="38734613" type="audio/mpeg" />
+</item>
+<item><title>Anxiety and Poverty</title>
+<guid isPermaLink="false">https://pinecast.com/guid/86975fa6-31b5-4aa7-afb2-45992d136d0e</guid>
+<pubDate>Thu, 18 Jun 2020 07:01:24 -0000</pubDate>
+<itunes:duration>00:37:00</itunes:duration>
+<itunes:subtitle>Entrusting to Him in all things</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/06/18/anxiety-and-poverty.html</link>
+<description><![CDATA[Entrusting to Him in all things]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/86975fa6-31b5-4aa7-afb2-45992d136d0e.mp3?source=rss&amp;ext=asset.mp3" length="26643772" type="audio/mpeg" />
+</item>
+<item><title>One Congregation</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ad3d1a7b-e457-449d-a674-a6b9c92e9c17</guid>
+<pubDate>Thu, 11 Jun 2020 07:01:19 -0000</pubDate>
+<itunes:duration>00:53:35</itunes:duration>
+<itunes:subtitle>What you did to the least of these</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/06/11/one-congregation.html</link>
+<description><![CDATA[What you did to the least of these]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ad3d1a7b-e457-449d-a674-a6b9c92e9c17.mp3?source=rss&amp;ext=asset.mp3" length="38591968" type="audio/mpeg" />
+</item>
+<item><title>Basil and Malachi EPs</title>
+<guid isPermaLink="false">https://pinecast.com/guid/4ee2b07f-bb96-4ab4-8f37-dd0c9558d8b0</guid>
+<pubDate>Thu, 04 Jun 2020 07:01:20 -0000</pubDate>
+<itunes:duration>00:55:12</itunes:duration>
+<itunes:subtitle>The Art of Prayer</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/06/04/basil-and-malachi-eps.html</link>
+<description><![CDATA[The Art of Prayer]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/4ee2b07f-bb96-4ab4-8f37-dd0c9558d8b0.mp3?source=rss&amp;ext=asset.mp3" length="39751183" type="audio/mpeg" />
+</item>
+<item><title>Zoë</title>
+<guid isPermaLink="false">https://pinecast.com/guid/61abffff-c5f2-482c-8f9d-64af6a973297</guid>
+<pubDate>Thu, 28 May 2020 19:20:46 -0000</pubDate>
+<itunes:duration>00:53:58</itunes:duration>
+<itunes:subtitle>Beauty of the Feminine</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/05/28/zoe.html</link>
+<description><![CDATA[Beauty of the Feminine]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/61abffff-c5f2-482c-8f9d-64af6a973297.mp3?source=rss&amp;ext=asset.mp3" length="38859345" type="audio/mpeg" />
+</item>
+<item><title>Dependence, the basic truth</title>
+<guid isPermaLink="false">https://pinecast.com/guid/668502f0-2f68-4187-8a67-9b03550cb414</guid>
+<pubDate>Thu, 21 May 2020 18:23:34 -0000</pubDate>
+<itunes:duration>00:53:40</itunes:duration>
+<itunes:subtitle>Receive with Mary</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/05/21/dependence-the-basic-truth.html</link>
+<description><![CDATA[Receive with Mary]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/668502f0-2f68-4187-8a67-9b03550cb414.mp3?source=rss&amp;ext=asset.mp3" length="38645582" type="audio/mpeg" />
+</item>
+<item><title>Oil Can</title>
+<guid isPermaLink="false">https://pinecast.com/guid/1e54b9c2-2852-45f5-9605-b377cc9d87f5</guid>
+<pubDate>Thu, 14 May 2020 07:01:44 -0000</pubDate>
+<itunes:duration>00:47:31</itunes:duration>
+<itunes:subtitle>Here to Serve</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/05/14/oil-can.html</link>
+<description><![CDATA[Here to Serve]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/1e54b9c2-2852-45f5-9605-b377cc9d87f5.mp3?source=rss&amp;aid=26db280a-1764-422e-8efa-5bde503a4fa6.mp3" length="34226824" type="audio/mpeg" />
+</item>
+<item><title>The Dwarf and Tragedian</title>
+<guid isPermaLink="false">https://pinecast.com/guid/cbfc3117-c449-4400-ae65-bda2157119a3</guid>
+<pubDate>Thu, 07 May 2020 07:01:55 -0000</pubDate>
+<itunes:duration>00:52:37</itunes:duration>
+<itunes:subtitle>Thy will be done</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/05/07/the-dwarf-and-tragedian.html</link>
+<description><![CDATA[Thy will be done]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/cbfc3117-c449-4400-ae65-bda2157119a3.mp3?source=rss&amp;ext=asset.mp3" length="37896386" type="audio/mpeg" />
+</item>
+<item><title>Promises of God</title>
+<guid isPermaLink="false">https://pinecast.com/guid/08804609-957e-49ad-9603-14f8322874e5</guid>
+<pubDate>Thu, 30 Apr 2020 07:01:55 -0000</pubDate>
+<itunes:duration>00:39:40</itunes:duration>
+<itunes:subtitle>Living for His Promises</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/04/30/2020-04-30-promises-of-god.html</link>
+<description><![CDATA[Living for His Promises]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/08804609-957e-49ad-9603-14f8322874e5.mp3?source=rss&amp;aid=98dbf6a4-54ed-4fc2-a9f2-c3821b7c8995.mp3" length="28569724" type="audio/mpeg" />
+</item>
+<item><title>I Do, with the Help of God</title>
+<guid isPermaLink="false">https://pinecast.com/guid/fc20ba4c-0aac-4275-953c-03fed982f90f</guid>
+<pubDate>Thu, 23 Apr 2020 13:49:50 -0000</pubDate>
+<itunes:duration>00:46:01</itunes:duration>
+<itunes:subtitle>Clear the brush</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/04/23/2020-04-23-i-do-with-the-help-of-god.html</link>
+<description><![CDATA[Clear the brush]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/fc20ba4c-0aac-4275-953c-03fed982f90f.mp3?source=rss&amp;ext=asset.mp3" length="33135730" type="audio/mpeg" />
+</item>
+<item><title>Baal and Asherah v. Mercy God</title>
+<guid isPermaLink="false">https://pinecast.com/guid/bb911fae-06f8-43ed-b71f-06c82251eaec</guid>
+<pubDate>Thu, 16 Apr 2020 07:01:54 -0000</pubDate>
+<itunes:duration>00:40:33</itunes:duration>
+<itunes:subtitle>Trusting in a Merciful God</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/04/16/baal-and-asherah-v-mercy-god.html</link>
+<description><![CDATA[Trusting in a Merciful God]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/bb911fae-06f8-43ed-b71f-06c82251eaec.mp3?source=rss&amp;ext=asset.mp3" length="29197303" type="audio/mpeg" />
+</item>
+<item><title>The Sacrifice of the Mass</title>
+<guid isPermaLink="false">https://pinecast.com/guid/709e4ca6-2ec7-4ce5-b986-ba553b34c7b1</guid>
+<pubDate>Thu, 09 Apr 2020 18:10:31 -0000</pubDate>
+<itunes:duration>00:56:50</itunes:duration>
+<itunes:subtitle>The Interior Sacrifice</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/04/09/the-sacrifice-of-the-mass.html</link>
+<description><![CDATA[The Interior Sacrifice]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/709e4ca6-2ec7-4ce5-b986-ba553b34c7b1.mp3?source=rss&amp;ext=asset.mp3" length="40927951" type="audio/mpeg" />
+</item>
+<item><title>Jewish Roots</title>
+<guid isPermaLink="false">https://pinecast.com/guid/79646e6a-0e99-4d78-ab04-488f68be3e7e</guid>
+<pubDate>Thu, 02 Apr 2020 07:01:36 -0000</pubDate>
+<itunes:duration>00:37:01</itunes:duration>
+<itunes:subtitle>Living the Scriptures</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/04/02/jewish-roots.html</link>
+<description><![CDATA[Living the Scriptures]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/79646e6a-0e99-4d78-ab04-488f68be3e7e.mp3?source=rss&amp;aid=6691e95b-5a37-45bc-a503-be4eaee4a779.mp3" length="26661524" type="audio/mpeg" />
+</item>
+<item><title>Bacterial Scrupulosity</title>
+<guid isPermaLink="false">https://pinecast.com/guid/2238f8e9-1a1d-496e-aacd-c8b4b069a139</guid>
+<pubDate>Thu, 26 Mar 2020 07:01:55 -0000</pubDate>
+<itunes:duration>00:56:49</itunes:duration>
+<itunes:subtitle>Our Holy Longing</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/03/26/2020-03-26-bacterial-scrupulosity.html</link>
+<description><![CDATA[Our Holy Longing]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/2238f8e9-1a1d-496e-aacd-c8b4b069a139.mp3?source=rss&amp;ext=asset.mp3" length="40910080" type="audio/mpeg" />
+</item>
+<item><title>Leviathan the Ancient Beast</title>
+<guid isPermaLink="false">https://pinecast.com/guid/bb7b508b-b810-4389-8089-513081300194</guid>
+<pubDate>Thu, 19 Mar 2020 07:01:24 -0000</pubDate>
+<itunes:duration>00:55:25</itunes:duration>
+<itunes:subtitle>Rising to a Different Life</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/03/19/2020-03-19-leviathan-the-ancient-beast.html</link>
+<description><![CDATA[Rising to a Different Life]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/bb7b508b-b810-4389-8089-513081300194.mp3?source=rss&amp;ext=asset.mp3" length="39911685" type="audio/mpeg" />
+</item>
+<item><title>Surnaturel</title>
+<guid isPermaLink="false">https://pinecast.com/guid/0a845c79-064a-4b5b-8e47-4108f46e96a7</guid>
+<pubDate>Thu, 12 Mar 2020 07:01:51 -0000</pubDate>
+<itunes:duration>00:52:36</itunes:duration>
+<itunes:subtitle>The desire within</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/03/12/2020-03-12-surnatural.html</link>
+<description><![CDATA[The desire within]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/0a845c79-064a-4b5b-8e47-4108f46e96a7.mp3?source=rss&amp;ext=asset.mp3" length="37878505" type="audio/mpeg" />
+</item>
+<item><title>Spirit of the World</title>
+<guid isPermaLink="false">https://pinecast.com/guid/632005e1-3c06-4c35-a071-afe9d6fed9ea</guid>
+<pubDate>Thu, 05 Mar 2020 08:01:50 -0000</pubDate>
+<itunes:duration>00:38:07</itunes:duration>
+<itunes:subtitle>Learning to become obedient</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/03/05/spirit-of-the-world.html</link>
+<description><![CDATA[Learning to become obedient]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/632005e1-3c06-4c35-a071-afe9d6fed9ea.mp3?source=rss&amp;ext=asset.mp3" length="27449074" type="audio/mpeg" />
+</item>
+<item><title>Goebel, 4% Neanderthal</title>
+<guid isPermaLink="false">https://pinecast.com/guid/389a24cd-dda9-481f-9066-037ddc7fb207</guid>
+<pubDate>Thu, 27 Feb 2020 08:01:32 -0000</pubDate>
+<itunes:duration>00:48:50</itunes:duration>
+<itunes:subtitle>How we all came to be, a theory</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/02/27/2020-02-27-goebel-4-neanderthal.html</link>
+<description><![CDATA[How we all came to be, a theory]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/389a24cd-dda9-481f-9066-037ddc7fb207.mp3?source=rss&amp;ext=asset.mp3" length="35167274" type="audio/mpeg" />
+</item>
+<item><title>Blessed Composure Disclosure</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f52def11-1273-4b97-8dd3-f29276c299f9</guid>
+<pubDate>Thu, 20 Feb 2020 08:01:58 -0000</pubDate>
+<itunes:duration>01:02:38</itunes:duration>
+<itunes:subtitle>Re-imagining the Mountains of Scripture</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/02/20/2020-02-20-blessed-composure-disclosure.html</link>
+<description><![CDATA[Re-imagining the Mountains of Scripture]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f52def11-1273-4b97-8dd3-f29276c299f9.mp3?source=rss&amp;ext=asset.mp3" length="45098664" type="audio/mpeg" />
+</item>
+<item><title>David and Nathan</title>
+<guid isPermaLink="false">https://pinecast.com/guid/6b4dd444-5094-48e0-a488-5d73c81982f1</guid>
+<pubDate>Thu, 13 Feb 2020 14:35:27 -0000</pubDate>
+<itunes:duration>00:36:00</itunes:duration>
+<link>https://catholicstuffpodcast.com/podcast/2020/02/13/2020-02-13-david-and-nathan.html</link>
+<description><![CDATA[David and Nathan]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/6b4dd444-5094-48e0-a488-5d73c81982f1.mp3?source=rss&amp;ext=asset.mp3" length="25930626" type="audio/mpeg" />
+</item>
+<item><title>Only the Lover Sings</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c13fa188-4ca4-4ddf-b44f-284b7225615b</guid>
+<pubDate>Thu, 06 Feb 2020 08:01:53 -0000</pubDate>
+<itunes:duration>00:55:08</itunes:duration>
+<itunes:subtitle>Beholding true beauty</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/02/06/2020-02-06-only-the-lover-sings.html</link>
+<description><![CDATA[Beholding true beauty]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c13fa188-4ca4-4ddf-b44f-284b7225615b.mp3?source=rss&amp;ext=asset.mp3" length="39697578" type="audio/mpeg" />
+</item>
+<item><title>Beren and Lúthien</title>
+<guid isPermaLink="false">https://pinecast.com/guid/99c83543-4c2f-4c48-b5d5-309b2dde12f0</guid>
+<pubDate>Thu, 30 Jan 2020 08:01:02 -0000</pubDate>
+<itunes:duration>00:50:13</itunes:duration>
+<itunes:subtitle>Truth portrayed in the story</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/01/30/beren-and-l-thien.html</link>
+<description><![CDATA[Truth portrayed in the story]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/99c83543-4c2f-4c48-b5d5-309b2dde12f0.mp3?source=rss&amp;ext=asset.mp3" length="36166657" type="audio/mpeg" />
+</item>
+<item><title>Some Little Saints for 2020</title>
+<guid isPermaLink="false">https://pinecast.com/guid/575ed0ae-1acf-4cce-a152-3eed14af7544</guid>
+<pubDate>Thu, 23 Jan 2020 07:01:52 -0000</pubDate>
+<itunes:duration>00:53:30</itunes:duration>
+<itunes:subtitle>The effect of small, seemingly insignificant, lives</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/01/23/2020-01-23-some-little-saints-for-2020.html</link>
+<description><![CDATA[The effect of small, seemingly insignificant, lives]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/575ed0ae-1acf-4cce-a152-3eed14af7544.mp3?source=rss&amp;aid=c9f42486-7079-41a8-9e30-fd6826b21047.mp3" length="38520508" type="audio/mpeg" />
+</item>
+<item><title>A Live One: CSYSK 10th Anniversary</title>
+<guid isPermaLink="false">https://pinecast.com/guid/900c9b42-053e-46ff-b3ab-1b7c090dd2a6</guid>
+<pubDate>Thu, 16 Jan 2020 14:29:04 -0000</pubDate>
+<itunes:duration>01:14:49</itunes:duration>
+<itunes:subtitle>Reminiscing Together</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/01/16/a-live-one-csysk-10th-anniversary.html</link>
+<description><![CDATA[Reminiscing Together]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/900c9b42-053e-46ff-b3ab-1b7c090dd2a6.mp3?source=rss&amp;ext=asset.mp3" length="53874872" type="audio/mpeg" />
+</item>
+<item><title>Subordination</title>
+<guid isPermaLink="false">https://pinecast.com/guid/89237916-9438-4d94-b75b-be533526eb2f</guid>
+<pubDate>Thu, 09 Jan 2020 07:01:55 -0000</pubDate>
+<itunes:duration>00:41:12</itunes:duration>
+<itunes:subtitle>Ordering life according to the Lord</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/01/09/2020-01-09-subordination.html</link>
+<description><![CDATA[Ordering life according to the Lord]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/89237916-9438-4d94-b75b-be533526eb2f.mp3?source=rss&amp;ext=asset.mp3" length="29675328" type="audio/mpeg" />
+</item>
+<item><title>Competition Cult</title>
+<guid isPermaLink="false">https://pinecast.com/guid/6dd04fb5-819b-42fc-a27e-4ace75f39fd4</guid>
+<pubDate>Thu, 02 Jan 2020 07:01:23 -0000</pubDate>
+<itunes:duration>01:08:49</itunes:duration>
+<itunes:subtitle>Fighting the need to win</itunes:subtitle>
+<link>https://catholicstuffpodcast.com/podcast/2020/01/02/2020-01-02-competition-cult.html</link>
+<description><![CDATA[Fighting the need to win]]></description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/6dd04fb5-819b-42fc-a27e-4ace75f39fd4.mp3?source=rss&amp;ext=asset.mp3" length="49559321" type="audio/mpeg" />
+</item>
+</channel>
+<!-- generated in 0s 22336us -->
+</rss>
