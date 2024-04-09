@@ -1,0 +1,51 @@
+Work Order ID,Account Number,Work Order Number,WorkDesc,Stop Box Location,Water Service Type,Water Service Size,Stop Time,Status,Work Result,New Meter Read,New Serial #,New MTU #
+4384,312962494,24-062884,MTU Repair,,,Y,3/15/2024 13:00,IMPORTED,"AM, 30 MIN CALL AHEAD, 330-466-8835, PHIL, Mtu not compatible. Installed and programmed new mtu., Current Read (Old Meter): 077353",,,72604784
+4470,102941514,24-062957,MTU Repair,3'   NORTH OF SOUTH BLDG LINE      AND/OR 2'    INSIDE SIDEWALK  BUFFALO BOX/360 VALVE,Copper,Y3/4,3/15/2024 8:30,IMPORTED,"AM, 30 MIN CALL AHEAD, 586-343-3285, ROSANN, Replaced smashed register and bad mtu. Turned off old mtu, Item (reg 6whl 5/8 T10): Amount ($65.460000), Item (MTU SINGLE PORT): Amount ($114.000000)",0,Same,72604687
+4494,112931738,24-062965,MTU Not Transmitting,6'   NORTH OF SOUTH BLDG LINE            11',Copper ,Y 3/4,3/15/2024 9:15,IMPORTED,"AM, *30 MIN CALL AHEAD, MICHAEL MARSHALL, 586-530-5170, Replaced bad register and bad mtu. Turned off old mtu , No one has been living in the house, Item (reg 6whl 5/8 T10): Amount ($65.460000), Item (MTU SINGLE PORT): Amount ($114.000000)",0,Same,72604706
+4496,204942774,24-062967,MTU Not Transmitting,12'   EAST OF WEST LOT LINE,Need to hydro excavate ,Y,3/15/2024 12:30,IMPORTED,"PM, 30 MIN CALL AHEAD, 586-758-6481, HAROLD, Replaced smashed register and bad mtu. Turned off old mtu., Item (reg 6whl 5/8 T10): Amount ($65.460000), Item (MTU SINGLE PORT): Amount ($114.000000)",0,Same,W72605057
+4515,101913726,24-062975,Turn Off Delinquent,12'   SOUTH OF NORTH BLDG LINE,,Y,3/18/2024 10:15,IMPORTED,"Older style stopbox. Couldn’t get it open., This Occupant Paid, Left Water On",,,
+4516,101916218,24-062978,Turn Off Delinquent,,,Y,3/18/2024 10:30,IMPORTED,Turned water off at stopbox. Left notice on door.,,,
+4517,112965294,24-062973,MTU Repair,5'   SOUTH OF NORTH BLDG LINE            7'   OF COPPER,Copper ,Y3/4,3/15/2024 13:00,IMPORTED,"PM, 30 MIN CALL AHEAD, 586-415-6653, DOREEN BROWN, Replaced bad register and bad mtu. Turned off old mtu., Item (reg 6whl 5/8 T10): Amount ($65.460000), Item (MTU SINGLE PORT): Amount ($114.000000)",0,Same,72604699
+4522,312916806,24-062977,MTU Repair,,,4-Mar,3/15/2024 9:00,IMPORTED,"AM, 30 MIN CALL AHEAD, 313-500-0555, MD, Replaced and programmed mtu., Current Read (Old Meter): 098464",,,72604765
+4552,101920674,24-063002,Turn Off Delinquent,4'   SOUTH OF SOUTH BLDG LINE            38'   OF COPPER,,Y,3/18/2024 11:00,IMPORTED,Turned water off at stopbox. Painted and flagged,,,
+4554,101926806,24-063009,Turn Off Delinquent,9'   SOUTH OF NORTH BLDG LINE,,Y,3/18/2024 10:00,IMPORTED,Turn off for delinquent,,,
+4570,304940674,24-063000,MTU Repair,METER WELL LOC: 5' S OF MOST S BLDG LINE JUST INSIDE SIDEWALK ON EUREKA,,Y,3/18/2024 16:15,IMPORTED,"AFTER 2:30PM, 30 MIN CALL AHEAD, 586-350-4771, LINDA, Replaced defective MTU and programmed., Item (MTU SINGLE PORT): Amount ($114.000000)",50330,,72604992
+4572,308930590,24-062990,Water Meter Inspection,,,Y,3/15/2024 9:45,IMPORTED,"Located the 4th meter. Hooked the puck up and it successfully read the mtu. Possible the phone was never synced after the first time programming. Turned off mtu. Added same mtu and reprogrammed. Will sync the phone and if problem continues recommend changing mtu., Current Read (Old Meter): 01064996",,,68172847
+4593,101927702,24-063034,Turn Off Delinquent,,,Y,3/18/2024 10:35,IMPORTED,Turn off for delinquent,,,
+4594,101928318,24-063037,Turn Off Delinquent,7'   SOUTH OF NORTH BLDG LINE            26'   OF COPPER,,Y,3/18/2024 11:00,IMPORTED,"Unable to get on valve stop box needs to be blown out, It Looks Like This Occupant Paid, According To Utility Billing. Net",,,
+4595,101930870,24-063038,Turn Off Delinquent,,,4-Mar,3/18/2024 12:15,IMPORTED,Turn off for delinquent,,,
+4596,101932550,24-063040,Turn Off Delinquent,2'   EAST OF WEST BLDG LINE             12'   OF COPPER,,Y,3/18/2024 13:30,IMPORTED,Turn off for delinquent,,,
+4597,101934109,24-063043,Turn Off Delinquent,4' S OF 21532 SCHOENHERR  360 VALVE,,Y,3/18/2024 11:02,IMPORTED,Work Order Has Been Cancelled,,,
+4598,101934118,24-063044,Turn Off Delinquent,1'   EAST OF WEST BLDG LINE       And/Or 1'    OUTSIDE SIDEWALK  10'   OF COPPER,,Y,3/18/2024 13:50,IMPORTED,Turn off for delinquent,,,
+4599,101935210,24-063045,Turn Off Delinquent,14'   WEST OF EAST BLDG LINE             50'   OF COPPER,,Y,3/18/2024 8:40,IMPORTED,Turn off for delinquent,,,
+4600,101937786,24-063046,Turn Off Delinquent,SOUTH LOT LINE,,Y,3/18/2024 13:00,IMPORTED,Turn off for delinquent,,,
+4601,101940058,24-063048,Turn Off Delinquent,,,Y,3/18/2024 9:00,IMPORTED,Turned off.,,,
+4602,101941038,24-063049,Turn Off Delinquent,2'   WEST OF EAST EDGE DRIVE      And/Or 2'    FROM SIDEWALK,,Y,3/18/2024 13:45,IMPORTED,"Couldn’t find S/B traced out.  Need backhoe to scrap through shrubs.  See attached image. , It Looks Like The Occupant Paid The Bill, According To Utility Billing.NET",,,
+4603,101943502,24-063050,Turn Off Delinquent,2'   EAST OF WEST BLDG LINE,,Y,3/18/2024 12:30,IMPORTED,Turned off.,,,
+4604,101944295,24-063051,Turn Off Delinquent,"1""    8'   EAST OF WEST BLDG LINE       And/Or 2'    OUTSIDE SIDEWALK  32'   OF COPPER",,Y,3/18/2024 11:30,IMPORTED,Left on per 90.  Customer paid.,,,
+4605,101944426,24-063052,Turn Off Delinquent,18'   EAST OF WEST LOT LINE              40'   OF COPPER,,Y,3/18/2024 9:30,IMPORTED,Turned off.,,,
+4606,101947366,24-063055,Turn Off Delinquent,"4' W OF W BLDG LINE   6"" OUTSIDE OF SIDEWALK",,Y,3/18/2024 11:15,IMPORTED,Left on per 90.  Customer paid.,,,
+4607,106940534,24-063058,Turn Off Delinquent,2'   EAST OF WEST BLDG LINE             45'   OF COPPER,,Y,3/18/2024 8:30,IMPORTED,Turned off.,,,
+4635,307924682,24-063057,MTU Repair,26'   NORTH OF SOUTH LINE                    12'   EAST OF WEST LINE                SIDEWALK,,Y,3/15/2024 14:00,IMPORTED,"PM, 30 MIN CALL AHEAD, 818-255-8443, ROSE, Installed and programmed new mtu., Current Read (Old Meter): 058340, Item (MTU SINGLE PORT): Amount ($114.000000)",,,71245212
+4652,101950674,24-063062,Turn Off Delinquent,19'   NORTH OF SOUTH LOT LINE,,Y,3/18/2024 8:30,IMPORTED,Turned water off at stop box. Left notice on door.,,,
+4653,101955742,24-063065,Turn Off Delinquent,3' SOUTH OF SOUTH BLDG LINE AND/OR  1' INSIDE OF SDWLK,,4-Mar,3/18/2024 10:00,IMPORTED,Turned off.,,,
+4654,101957786,24-063066,Turn Off Delinquent,12'    SOUTH CORNER,,Y,3/18/2024 10:00,IMPORTED,"Couldn’t locate stopbox. Left notice on door., It Looks Like The Occupant Paid, Per Utility Billing.NET",,,
+4655,101960394,24-063067,Turn Off Delinquent,2'   NORTH OF EAST CORNER,,Y,3/18/2024 10:30,IMPORTED,Turned off.,,,
+4656,101960422,24-063068,Turn Off Delinquent,3' 2'' WEST OF WEST BLDG LINE       And/Or 4'    INSIDE SIDEWALK,,Y,3/18/2024 11:00,IMPORTED,Turned off.,,,
+4658,201934986,24-063063,Water Meter Inspection,4'   EAST OF WEST BLDG LINE       And/Or 2' 6''  FROM SIDEWALK,,Y,3/15/2024 11:00,IMPORTED,"PM, *LOCKBOX# 0818, (MARTIN GOJCAJ), (586-344-1098), Turned water on at stop box per 90. Inspected meter and it was in backwards. Installed it correctly and was able to read mtu. Left water off at meter valve because they still need to make repairs inside.",,,
+4676,,,T/OFF: DELINQUENT,,,,3/18/2024 9:15,IMPORTED,Turn off for delinquent,,,
+4677,,,T/OFF: REPAIRS,2'   SOUTH OF NORTH BLDG LINE            11'   OF COPPER,,,3/18/2024 9:15,IMPORTED,Water is verified off at stop box,,,
+4678,,,T/ON: DELINQUENT,"17' S OF N BLDG LINE AND 8"" INSIDE SIDEWALK UNDER FENCE",,,3/18/2024 14:10,IMPORTED,Turn on after delinquent,,,
+4679,,,T/ON: DELINQUENT,2'   EAST OF WEST BLDG LINE             45'   OF COPPER,,,3/18/2024 13:00,IMPORTED,Turned on.  Confirmed.,,,
+4680,,,T/ON: DELINQUENT,,,,3/18/2024 14:30,IMPORTED,Turn on after delinquent,,,
+4682,,,TURN ON,LEFT SIDE OF NORTH BUILDING LINE & 4' INSIDE SIDEWALK,,,3/18/2024 12:45,IMPORTED,Turned on.,,,
+4684,202931626,,T/OFF: BROKEN PIPES,3' 6'' WEST OF EAST BLDG LINE       AND/OR 2'    INSIDE SIDEWALK,,,3/18/2024 12:30,IMPORTED,I could hear water flowing from crawl space. Water was shut off at the stop box,,,
+4685,,,T/ON: REPAIRS,,,,3/18/2024 12:45,IMPORTED,Water was turned back on.,,,
+4686,,,T/OFF: VACANT,15'  NORTH OF SOUTH BLDG LINE  AND 3' OUTSIDE SIDEWALK         20'   OF COPPER,,,3/18/2024 13:45,IMPORTED,Water is off at stop box. Marked and flagged,,,
+4687,,,T/ON: DELINQUENT,9'   SOUTH OF NORTH BLDG LINE,,,3/18/2024 14:55,IMPORTED,Turn on after delinquent,,,
+4688,,,T/ON: DELINQUENT,,,,3/18/2024 13:15,IMPORTED,Turned on.,,,
+4689,101950674,,T/ON: DELINQUENT,19'   NORTH OF SOUTH LOT LINE,,,3/18/2024 16:45,IMPORTED,Turned water on at stop box customer had signed waiver.,,,
+4690,101960422,,T/ON: DELINQUENT,3' 2'' WEST OF WEST BLDG LINE       AND/OR 4'    INSIDE SIDEWALK,,,3/18/2024 18:00,IMPORTED,Turned water on at stop box customer verified,,,
+4691,101960394,,T/ON: DELINQUENT,2'   NORTH OF EAST CORNER,,,3/18/2024 17:55,IMPORTED,Turned water on at stop box customer verified.,,,
+4693,101934118,,T/ON: DELINQUENT,1'   EAST OF WEST BLDG LINE       AND/OR 1'    OUTSIDE SIDEWALK  10'   OF COPPER,,,3/18/2024 16:35,IMPORTED,Turned water on at stop box customer verified.,,,
+4696,110952830,,MTU NOT TRANSMITTING,,Copper,4-Mar,3/18/2024 18:45,IMPORTED,"Replaced defective dual port MTU , house info  read 093504 ,sprinkler info read 017031. After repairing MTU ,then turned water on at stop box., Item (MTU DUAL PORT): Amount ($144.000000)",,,72565393
